@@ -1,0 +1,15 @@
+C:\Users\alexq\Desktop\csharp\Psicometrics\obj\Debug\net6.0\Psicometrics.csproj.AssemblyReference.cache
+C:\Users\alexq\Desktop\csharp\Psicometrics\obj\Debug\net6.0\Psicometrics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexq\Desktop\csharp\Psicometrics\obj\Debug\net6.0\Psicometrics.AssemblyInfoInputs.cache
+C:\Users\alexq\Desktop\csharp\Psicometrics\obj\Debug\net6.0\Psicometrics.AssemblyInfo.cs
+C:\Users\alexq\Desktop\csharp\Psicometrics\obj\Debug\net6.0\Psicometrics.csproj.CoreCompileInputs.cache
+C:\Users\alexq\Desktop\csharp\Psicometrics\bin\Debug\net6.0\Psicometrics.exe
+C:\Users\alexq\Desktop\csharp\Psicometrics\bin\Debug\net6.0\Psicometrics.deps.json
+C:\Users\alexq\Desktop\csharp\Psicometrics\bin\Debug\net6.0\Psicometrics.runtimeconfig.json
+C:\Users\alexq\Desktop\csharp\Psicometrics\bin\Debug\net6.0\Psicometrics.dll
+C:\Users\alexq\Desktop\csharp\Psicometrics\bin\Debug\net6.0\Psicometrics.pdb
+C:\Users\alexq\Desktop\csharp\Psicometrics\obj\Debug\net6.0\Psicometrics.dll
+C:\Users\alexq\Desktop\csharp\Psicometrics\obj\Debug\net6.0\refint\Psicometrics.dll
+C:\Users\alexq\Desktop\csharp\Psicometrics\obj\Debug\net6.0\Psicometrics.pdb
+C:\Users\alexq\Desktop\csharp\Psicometrics\obj\Debug\net6.0\Psicometrics.genruntimeconfig.cache
+C:\Users\alexq\Desktop\csharp\Psicometrics\obj\Debug\net6.0\ref\Psicometrics.dll
